@@ -1,5 +1,5 @@
 # FastProgectTemlateCreate
-To create progect open folder in terminal and run CreateFldr.sh whis name(./CreateFldr.sh Folder)
+To create project open folder in terminal and run CreateFldr.sh whis name(./CreateFldr.sh Folder)
 
 file e.sh run code.cpp in Vim
 
